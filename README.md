@@ -2,7 +2,7 @@
 
 Bem vindos ao meu perfil no GitHub!
 
-Me chamo Michel, sou Engenheiro de Produção e no momento, Licenciando em Computação. Sou um entusiasta por tecnologia e estou me esforçando o máximo para absorver os conteúdos do mundo da programação em específico!
+Me chamo Michel, sou Engenheiro de Produção e no momento, Licenciando em Computação. Estou em processo de transição de carreira e estou compartilhando neste canal a evolução de meus estudos.
 
 <a href="https://www.linkedin.com/in/michelabs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
