@@ -18,6 +18,7 @@ Bora bater um papo no Linkedin!?
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://user-images.githubusercontent.com/76872352/179828010-75fc9ea5-984b-4d2d-bd14-52feddaccdc3.png">
 </div><br>
 
   Este é o meu progresso até o momento!
